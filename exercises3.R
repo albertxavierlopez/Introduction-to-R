@@ -1,6 +1,6 @@
-## EXERCISE 3 #####################################################################
+## EXERCISES 3 #####################################################################
 
-# 3.1. Construct a matrix A and B
+# 3.1. Construct a matrix A with values 10, 20, 30, 50 in column 1, values 1, 4, 2, 3 in column 2 and values 15, 11, 19, 5 in column 3, i.e. a 4 × 3 matrix. Also construct a vector B with values 2.5, 3.5, 1.75. 
 
 A<-c(10,20,30,50,1,4,2,3,15,11,19,5)
 dim(A)<-c(4,3)
