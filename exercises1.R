@@ -1,4 +1,4 @@
-## EXERCISE 1 ############################################################################
+## EXERCISES 1 ############################################################################
 
 # 1.1. Create summary statistics for the elastic band data. (Create a dataframe using data from a table)
 
@@ -19,7 +19,7 @@ hist(elasticband$stretch)
 
 hist(elasticband$distance, breaks=4, main="Histogram of the distance")
 
-# 1.5. The following data are on snow cover for Eurasia in the years 1970-1979.
+# 1.5. The following data are on snow cover for Eurasia in the years 1970-1979. Take the logarithm of snow cover and plot snow.cover versus year.
 
 year<-seq(1970,1979, by=1)
 snow.cover<-c(6.5,12.0,14.9,10.0,10.7,7.9,21.9,12.5,14.5,9.5)
