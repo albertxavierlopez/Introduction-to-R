@@ -32,4 +32,4 @@ plot(snow.cover~year, pch=16, main="Snow cover every year")
 # 1.6. Display all objects in the workspace. Remove the data frame elasticband. 
 
 ls()
-rm(elasticband)
+rm(elasticband) 
