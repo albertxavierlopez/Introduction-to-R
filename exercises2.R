@@ -1,6 +1,7 @@
-## EXERCISE 2 #####################################################################
+## EXERCISES 2 #####################################################################
 
-# 2.1. Create a vector X.
+# 2.1. Create a vector x with the following entries 3 4 1 1 2 1 4 2 1 1 5 3 1 1 1 2 4 5 5 3 Check which elements of x are equal to 1 (Hint use == operator). x so that all of the 1’s are changed to 0’s
+# Modify x so that all of the 1’s are changed to 0’s.
 
 x<-c(3,4,1,1,2,1,4,2,1,1,5,3,1,1,1,2,4,5,5,3)
 
