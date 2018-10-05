@@ -1,4 +1,4 @@
-## EXERCISE 6 #####################################################################
+## EXERCISES 6 #####################################################################
 
 # 6.1. Download the example2.txt data and save it into your working directory.
 
