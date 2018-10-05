@@ -1,6 +1,7 @@
-## EXERCISE 7 #####################################################################
+## EXERCISES 7 #####################################################################
 
-# 7.1. Draw a random sample of size 100 from the interval [0,2]
+# 7.1. Draw a random sample of size 100 from the interval [0,2],  which contains 201 values. 
+# Sample without replacement.
 
 sample((runif(201, min=0, max=2)),100) 
 
@@ -28,7 +29,8 @@ quantile(z, 0.9)
 
 probabilityIQ142<-1-(pnorm(142, mean=100, sd=15))
 
-# 7.7.  Set the seed to "0" and create two samples of size 20 from the standard normal distribution with the same values. Repeat the process but set the seed to your ID number.
+# 7.7.  Set the seed to "0" and create two samples of size 20 from the standard normal distribution with the same values. 
+#  Repeat the process but set the seed to your ID number.
 
 set.seed(0)
 x1<-sample((rnorm(20, mean=1, sd=2)),20)
