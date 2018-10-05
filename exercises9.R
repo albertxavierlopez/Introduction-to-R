@@ -1,4 +1,4 @@
-## EXERCISE 9 #####################################################################
+## EXERCISES 9 #####################################################################
 
 # 9.1. Write a function that when passed a number, returns the number squared, the number cubed, and the square root of the number.
 
